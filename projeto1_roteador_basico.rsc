@@ -1,8 +1,8 @@
 # 2026-11-23 11:09:23 by RouterOS 7.25.1
-# software id = M2JQ-K8YY
+# software id =
 #
 # model = RB450
-# serial number = 36E00436A087
+# serial number = 
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
 /ip dhcp-server network
